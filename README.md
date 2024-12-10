@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Dorya-maz
-- 👀 I’m interested in  international business
-- 🌱 I’m currently learning management and international business in international negotiations of commercial projects
-- 💞️ I’m looking to collaborate on international business
-- 📫 How to reach me : linkedin = mazouz dorya 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm more creative than you can imagine 
-student in master 2 management and international business in international negotiations of commercial projects. I would like to share with you my projects carried out in class and in private in order to give you an idea of ​​my work and my creativity. 
-I am actively looking for a job after finishing my studies.
-<!---
-Dorya-maz/Dorya-maz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Dorya-maz!
+👀 Interests: I’m passionate about international business.
+🌱 Currently learning: I’m pursuing a Master’s degree in Management and International Business, specializing in the negotiation of international commercial projects.
+💞️ Looking to collaborate on: Exciting opportunities in international business and project negotiation.
+📫 How to reach me: Connect with me on LinkedIn - Mazouz Dorya.
+😄 Pronouns: ...
+⚡ Fun fact: I’m more creative than you might imagine! As a Master’s student, I’ve worked on various projects, both academic and personal, which showcase my skills and creativity. I’m actively seeking a job to apply my knowledge and make a meaningful impact after completing my studies.
